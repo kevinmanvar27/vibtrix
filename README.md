@@ -42,8 +42,8 @@ All OWASP Top 10 vulnerabilities have been addressed with enterprise-grade solut
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd nextjs
+   git clone https://github.com/kevinmanvar27/vibtrix.git
+   cd vibtrix
    ```
 
 2. **Install dependencies**
